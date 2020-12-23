@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+Contact me on my [Discord](https://discord.gg/KuNA3cu) server!
+
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=FFLomka&show_icons=true&theme=tokyonight)
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FFLomka&show_icons=true&hide_border=true" />
 <!--
 **FFLomka/fflomka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
